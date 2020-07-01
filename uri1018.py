@@ -1,4 +1,4 @@
-a = int(input())
+a = float(input())
 n = a / 100
 m = a % 100
 print(a)
